@@ -1,5 +1,6 @@
 
 
+
 def encode(arr):
     i = 0
     ans = ""
